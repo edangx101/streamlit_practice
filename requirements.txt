@@ -1,0 +1,10 @@
+streamlit
+pandas
+altair
+streamlit_pandas_profiling
+streamlit-elements==0.1.*
+xgboost
+scikit-learn
+shap
+matplotlib
+streamlit-shap
